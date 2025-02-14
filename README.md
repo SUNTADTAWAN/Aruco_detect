@@ -38,7 +38,6 @@ In the Excel file (<video_name>.xlsx), the rows represent the detected ArUco mar
 Top Row (UP - Upper Level) → Contains markers detected in the upper shelf level captured in the video.
 Bottom Row (DOWN - Lower Level) → Contains markers detected in the lower shelf level captured in the video.
 
-![image](https://github.com/user-attachments/assets/ce152d40-cfc4-4b3a-8025-a94d14db546c)
 
 **Example Frame with Detected ArUco Markers**
 When an ArUco marker is detected in the video, the script captures and saves an image with a structured filename that indicates:
