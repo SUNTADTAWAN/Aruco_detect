@@ -19,7 +19,7 @@ This script detects **ArUco markers** in **MP4 video files**, extracts their **I
 
 ---
 ## **How to Run the Script**
-To start detecting ArUco markers, run the following command(Don't forget to change the path file in code):
+To start detecting ArUco markers, run the following command ( Don't forget to change the path file in code ):
 
 ```sh
 python New_Aruco_detect.py
