@@ -19,12 +19,4 @@ This script detects **ArUco markers** in **MP4 video files**, extracts their **I
 
 ---
 
-## **Installation**
-Ensure you have the required dependencies installed:
-
-```sh
-pip install opencv-python numpy openpyxl
-```sh
-
-
 ## **Example**
