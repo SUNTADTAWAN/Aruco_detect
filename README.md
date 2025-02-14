@@ -24,6 +24,7 @@ Ensure you have the required dependencies installed:
 
 ```sh
 pip install opencv-python numpy openpyxl
+```sh
 
 
 ## **Example**
