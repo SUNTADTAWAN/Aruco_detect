@@ -25,4 +25,4 @@ This script detects **ArUco markers** in **MP4 video files**, extracts their **I
 ## **Download Sample Warehouse Videos**
 To test this project, download sample warehouse videos from Google Drive:
 
-🔗 **[Download Sample Videos]([https://drive.google.com/your-share-link](https://drive.google.com/drive/folders/1UDL9ePxvtVyLZpOv65CRXm15x1VUbDG4])**  
+🔗 **[Download Sample Videos]([https://drive.google.com/your-share-link](https://drive.google.com/drive/folders/1UDL9ePxvtVyLZpOv65CRXm15x1VUbDG4)**  
