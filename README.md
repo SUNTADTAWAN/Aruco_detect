@@ -42,7 +42,7 @@ Bottom Row (DOWN - Lower Level) → Contains markers detected in the lower shelf
 **Example Frame with Detected ArUco Markers**
 When an ArUco marker is detected in the video, the script captures and saves an image with a structured filename that indicates:
 
-![image](https://github.com/user-attachments/assets/c10241c0-a9c7-4e22-8d75-44cf53d8da65)
+![image](https://github.com/user-attachments/assets/01f39589-498e-4970-a88f-66b21d1f74dd)
 
 Position (UP or DOWN) → Specifies whether the marker is on the upper or lower level.
 Marker ID → The unique identifier of the detected ArUco marker.
