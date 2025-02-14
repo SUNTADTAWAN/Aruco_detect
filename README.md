@@ -22,7 +22,7 @@ This script detects **ArUco markers** in **MP4 video files**, extracts their **I
 To start detecting ArUco markers, run the following command:
 
 ```sh
-python detect_aruco.py
+python New_Aruco_detect.py
 ```
 
 ## **Example**
