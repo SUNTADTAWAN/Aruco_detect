@@ -18,6 +18,12 @@ This script detects **ArUco markers** in **MP4 video files**, extracts their **I
    - **Saved marker images** (`UP_x_ID.png`, `DOWN_x_ID.png`)
 
 ---
+## **How to Run the Script**
+To start detecting ArUco markers, run the following command:
+
+```sh
+python detect_aruco.py
+```
 
 ## **Example**
 **Place ArUco markers at two different levels** per frame.
