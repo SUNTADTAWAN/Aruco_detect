@@ -23,7 +23,7 @@ This script detects **ArUco markers** in **MP4 video files**, extracts their **I
 **Place ArUco markers at two different levels** per frame.
    - Example: **Floor 2 & 3 visible together**, **Floor 4 & 5 visible together**
 **To test this project, download sample warehouse videos from Google Drive:**
-**[Download Sample Videos]([https://drive.google.com/your-share-link](https://drive.google.com/drive/folders/1UDL9ePxvtVyLZpOv65CRXm15x1VUbDG4)**  
+**[Download Sample Videos]([](https://drive.google.com/drive/folders/1UDL9ePxvtVyLZpOv65CRXm15x1VUbDG4)**  
 **Expected Output from Running the Code**
 When you run the ArUco Marker Detection script, the following output will be generated:
 Naming Convention for Excel & Image Files (Based on Video Name)
